@@ -1,3 +1,1 @@
-Write-Output "Good morning Mr/Mrs $env:USERNAME!
-
-have a nice day!"
+Write-Output "Good evening Mr/Mrs $env:USERNAME!"
